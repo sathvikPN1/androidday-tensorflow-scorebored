@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_badminton.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\badminton.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable_ic_camera_vec.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable\\ic_camera_vec.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_ttmatch_form.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_ttmatch_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "sp.app.scoreboard.app-merged_res-52:/layout_activity_tt_cam_score_collector.xml.flat",
+        "source": "sp.app.scoreboard.app-main-54:/layout/activity_tt_cam_score_collector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_basketball.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\basketball.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_trophy.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_bmmatch_form.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_bmmatch_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_tt_cam_score_collector.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_tt_cam_score_collector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_toss.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_toss.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_bbwinner_screen.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_bbwinner_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_bmscore_collector.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_bmscore_collector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_ttwinner_screen.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_ttwinner_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_fbwinner_scren.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_fbwinner_scren.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_bbscore_collector.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_bbscore_collector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_bmwinner_screen.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_bmwinner_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_ping_pong.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\ping_pong.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_fb_score_collector.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_fb_score_collector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_football.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\football.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_bbmatch_form.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_bbmatch_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_score_collector.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_score_collector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_coin_tail.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\coin_tail.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\layout_activity_fb_match_form.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\layout\\activity_fb_match_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\drawable-v24_coin_head.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\drawable-v24\\coin_head.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\sp.app.scoreboard.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]

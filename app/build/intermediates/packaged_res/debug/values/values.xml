@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="aquamarine">#56E39F</color>
+    <color name="black">#FF000000</color>
+    <color name="cornflower_blue">#758BFD</color>
+    <color name="flame">#E4572E</color>
+    <color name="fuchsia">#FF01FB</color>
+    <color name="lavender_blush">#FFEAEE</color>
+    <color name="light_ultra_violet">#FFE9E3F8</color>
+    <color name="red_pantone">#E63946</color>
+    <color name="saffron">#F5CB5C</color>
+    <color name="tiffany_blue">#75DBCD</color>
+    <color name="tropical_indigo">#8980F5</color>
+    <color name="ultra_violet">#54457F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Score Board</string>
+    <style name="Base.Theme.ScoreBoardon" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/cornflower_blue</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="O_MR1">true</item>
+    </style>
+</resources>
